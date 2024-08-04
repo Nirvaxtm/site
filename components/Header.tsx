@@ -2,7 +2,7 @@ export default function Header() {
   return (
     <header className="flex items-center justify-between h-20">
       <div>
-	  <a className="text-xl font-semibold" href="#">Nirvax Team</a>
+	<a className="text-xl font-semibold" href="#">Nirvax Team</a>
       </div>
       <div className="text-gray-300">
 	<nav className="flex items-center justify-between">
