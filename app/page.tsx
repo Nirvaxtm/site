@@ -12,7 +12,7 @@ export default function Home() {
 	  <h1 className="text-6xl text-left font-semibold tracking-tighter">Embrace Security</h1>
 	  <h1 className="text-6xl text-left font-semibold tracking-tighter">Embrace <a className="text-[#6f48f2]">Nirvax</a></h1>
 	  <p className="text-gray-300 text-left lg:max-w-2xl">
-  Recusandae et est est quis. Et aliquid eum impedit ratione debitis autem error. Sit optio saepe quidem sed. Doloribus voluptatum deleniti vel itaque molestias voluptatibus ratione. Ut consectetur culpa quisquam quia quae. Maiores deserunt sint amet velit.
+  Recusandae et est est quis. Et aliquid eum impedit ratione debitis autem error.
 </p>
 	</div>
 	<div>
