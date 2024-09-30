@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Nirvax Team",
-  description: "Java suck me"
+  description: "Offering offensive security, development and blockchain services"
 };
 
 export default function RootLayout({

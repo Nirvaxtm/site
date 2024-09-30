@@ -12,10 +12,10 @@ export default function Home() {
 	  <h1 className="text-6xl text-left font-semibold tracking-tighter">Embrace Security</h1>
 	  <h1 className="text-6xl text-left font-semibold tracking-tighter">Embrace <a className="text-[#6f48f2]">Nirvax</a></h1>
 	  <p className="text-gray-300 text-left lg:max-w-2xl">
-  Recusandae et est est quis. Et aliquid eum impedit ratione debitis autem error.
+          ・ Offering offensive security and blockchain services.
 </p>
 	</div>
-	<div>
+	<div id="logoPng">
 	  <Image src={logoPng} alt="Nirvax Team logo" width={400} height={400} />
 	</div>
       </div>
